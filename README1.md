@@ -10,7 +10,7 @@
 
 This is to know different parts of the git repository andits commands using a web project. 
 
-## copyright
+##new copyright
 Git . Training.
 
 
