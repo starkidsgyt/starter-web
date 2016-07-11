@@ -1,5 +1,5 @@
 # Starter Web-Store
-
+ This is a simple project to see how to use git together with github
 ## Introduction
 
 ## Purpose
